@@ -66,3 +66,10 @@ export const theme = {
     mainColor:"#242424",
     backgroundColor:"#fefafb",
 }
+export const Bold = styled.b `
+font-weight: bold;
+`
+export const Title =styled.p `
+    
+    color:yellow;
+`
